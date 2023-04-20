@@ -1,6 +1,6 @@
-# Computer Based Testing System :page_facing_up:
+# Mtihani-System (Computer Based Examination System) :page_facing_up:
 
-This project [Computer Based Testing System](https://alx-cbt-system.live/) was completed using PHP script with Mysql Database. Other techologies used are;
+This project [Mtihani-System](https://alx-cbt-system.live/) was completed using PHP script with Mysql Database. Other techologies used are;
 * HTML
 * CSS
 * Javascript
