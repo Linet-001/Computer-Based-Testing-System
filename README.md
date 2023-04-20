@@ -1,6 +1,6 @@
 # Mtihani-System (Computer Based Examination System) :page_facing_up:
 
-This project [Mtihani-System](https://alx-cbt-system.live/) was completed using PHP script with Mysql Database. Other techologies used are;
+This project [Mtihani-System] was completed using PHP script with Mysql Database. Other techologies used are;
 * HTML
 * CSS
 * Javascript
@@ -35,7 +35,7 @@ This project [Mtihani-System](https://alx-cbt-system.live/) was completed using 
 
 
 ## Installation :thumbsup:Steps based on an example of a plaform and password
-* Enter https://alx-cbt-system.live/ into your browser https:cbetraining.kasneb.ke
+* Enter https://cbetraining.kasneb.or.ke/enrol/index.php?id=137 into your browser
 * Password: **soomy42**
 
 | username | Category |
