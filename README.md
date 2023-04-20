@@ -34,8 +34,8 @@ This project [Computer Based Testing System](https://alx-cbt-system.live/) was c
     - View users and courses.
 
 
-## Installation :thumbsup:
-* Enter https://alx-cbt-system.live/ into your browser
+## Installation :thumbsup:Steps based on an example of a plaform and password
+* Enter https://alx-cbt-system.live/ into your browser https:cbetraining.kasneb.ke
 * Password: **soomy42**
 
 | username | Category |
