@@ -34,9 +34,9 @@ This project [Mtihani-System] was completed using PHP script with Mysql Database
     - View users and courses.
 
 
-## Installation :thumbsup:Steps based on an example of a plaform and password
+## Installation :thumbsup:Steps based on an example of a plaform and password set 
 * Enter https://cbetraining.kasneb.or.ke/enrol/index.php?id=137 into your browser
-* Password: **soomy42**
+* Password: **Linet01.**
 
 | username | Category |
 | ------------- | ------------- |
