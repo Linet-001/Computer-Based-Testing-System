@@ -4,8 +4,6 @@ This project [Mtihani-System] was completed using PHP script with Mysql Database
 * HTML
 * CSS
 * Javascript
-* Bootstrap
-* Ajax
 
 ## Architecture :couple:
 ![Architecture](assets/images/architecture.jpg)
