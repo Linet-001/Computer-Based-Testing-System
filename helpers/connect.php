@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$dbusername = "chisom";
+$dbusername = "linet";
 $dbpassword = "sommyNkem6.9";
 $dbname = "CBT";
 
